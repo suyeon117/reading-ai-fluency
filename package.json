@@ -1,0 +1,1 @@
+{"name":"reading-fluency-ai","version":"1.0.0","private":true,"description":"초등학생 맞춤형 읽기 유창성 웹 서비스","scripts":{"start":"node server.js"},"engines":{"node":">=18"}}
